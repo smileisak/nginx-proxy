@@ -1,4 +1,4 @@
-FROM quay.io/smile/nginx-mod:latest
+FROM quay.io/smile/nginx-mod:1.17.6-02
 LABEL maintainer="Jason Wilder mail@jasonwilder.com"
 
 # Install wget and install/updates certificates
